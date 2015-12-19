@@ -1,6 +1,6 @@
 # XCFE4-rescue
 
-Un programme qui permet de résoudre les problèmes classiques de disparition du bureau (icones, fond d'écran) sous xubuntu.
+Un programme qui permet de résoudre les problèmes classiques de disparition du bureau (icones, fond d'écran), ou de la barre des tâches (xfce4-panel) sous xubuntu.
 
 Utilisation
 
