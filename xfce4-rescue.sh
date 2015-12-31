@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# require : effectue l'installation d'un paquetage en demandant la permission à l'utilisateur
+
 require() {
-# requires a package installation by any means
+# require v0.1
+# asks the user for installing a package installation by any means, if possible through gksudo
 
 package=$1 # le nom du package
 message=$2 # pour expliquer que l'on veut installer quelquechose et pourquoi
